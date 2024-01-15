@@ -1,2 +1,2 @@
 # equidity_landing-page.github.io
-It's a simplae Ladning page.
+It's a simple Ladning page.
